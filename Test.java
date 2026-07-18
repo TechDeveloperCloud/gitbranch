@@ -1,4 +1,4 @@
-public class HDFC {
+public class ICICI {
 
     private double balance;
 
