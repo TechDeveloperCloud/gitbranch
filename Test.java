@@ -1,4 +1,6 @@
-public class RBITest {
+
+public class RBI  {
+
 
     private double balance;
 
