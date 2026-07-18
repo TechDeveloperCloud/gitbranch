@@ -1,4 +1,4 @@
-public class BankAccount {
+public class BankAccountTesti{
 
     private double balance;
 
