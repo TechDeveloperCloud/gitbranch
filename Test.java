@@ -1,4 +1,4 @@
-public class ICICI {
+public class RBITest {
 
     private double balance;
 
