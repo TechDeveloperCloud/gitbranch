@@ -1,4 +1,4 @@
-public class HDFC {
+public class RBITest {
 
     private double balance;
 
